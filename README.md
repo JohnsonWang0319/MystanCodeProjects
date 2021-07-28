@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Code:
 * [Hangman Game](https://github.com/JohnsonWang0319/MystanCodeProjects/blob/main/stanCode_Projects/hangman_game/hangman.py)
--  python semantics & syntax
+*  python semantics & syntax
 * [Weather Master](https://github.com/JohnsonWang0319/MystanCodeProjects/blob/main/stanCode_Projects/weather_master/weather_master.py)
 -  python sematics & syntax
 * [Pedestrain Removing Application](https://github.com/JohnsonWang0319/MystanCodeProjects/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
